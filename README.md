@@ -8,6 +8,7 @@ same Tree or not :
 
 Invert Tree:
       when at root swapping the left and right nodes
+
 Binary Tree Level Order Traversal:
       using queue to pop the element which entered first at each level and appending to the level and after each level append that level elements to the result
 
