@@ -24,3 +24,8 @@ BackTracking:--
 
 Permutations:
       pop the element call recursively permute func to get permutations for remaining elements and add that popped element to that permutations and add popped element to original list nums like this calll recursively for each element and extend the result list with obtained permutations
+
+Stack:--
+
+Valid Paranthesis:
+      uses a stack to track opening brackets, ensuring each closing bracket matches the most recent opening one
