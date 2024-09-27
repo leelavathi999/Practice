@@ -29,3 +29,15 @@ Stack:--
 
 Valid Paranthesis:
       uses a stack to track opening brackets, ensuring each closing bracket matches the most recent opening one
+
+Two pointer Approach---
+
+Remove duplicates from sorted array -- using pointer to track of unique element place
+
+Matrix--
+
+Set matrix to zero -- if element is zero then set that elements respective col and row 1st element to zero
+
+Rotate Image -- save 1st element and then set from top buttom that is in reverse order
+
+
