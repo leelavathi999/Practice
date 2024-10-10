@@ -1,0 +1,6 @@
+ARRAYS:
+1)Two Sum
+
+    approach 1 : Brute force 
+    approach 2 : Hashmap
+    approach 3 : two pointers
