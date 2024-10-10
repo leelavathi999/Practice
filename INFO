@@ -1,6 +1,9 @@
-ARRAYS:
+ARRAYS:                       TC -- SC
 1)Two Sum
-
-    approach 1 : Brute force 
-    approach 2 : Hashmap
-    approach 3 : two pointers
+    approach 1 : Brute force ->O(n^2) -- O(1)
+    approach 2 : Hashmap     ->O(n)   -- O(n)
+    approach 3 : two pointers->O(nlogn)--O(1)
+2)Contain Duplicate
+    approach 1 : Brute force ->O(n^2) -- O(1)
+    approach 2 : Hashmap     ->O(n)   -- O(n)
+    approach 3 : Sorting     ->O(nlogn)--O(1)
