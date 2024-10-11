@@ -7,3 +7,9 @@ ARRAYS:                       TC -- SC
     approach 1 : Brute force ->O(n^2) -- O(1)
     approach 2 : Hashmap     ->O(n)   -- O(n)
     approach 3 : Sorting     ->O(nlogn)--O(1)
+3)Product of Array Iyself
+    approach 1 : Brute force ->O(n) -- O(n)
+    approach 2 : Optimised space->O(n) -- O(1)
+4)Maximum Subarray
+    approach 1 : Brute force ->O(n^2) -- O(1)
+    approach 2 : Kadane's algorithm->O(n)   -- O(1)
